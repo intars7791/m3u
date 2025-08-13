@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:0,ehr.aac
+#EXTINF:0,EHR 104.3 MH Rīga
 #EXTVLCOPT:network-caching=1000
 http://192.168.68.68:8000/radio
