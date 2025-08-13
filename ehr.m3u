@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://github.com/intars7791/m3u/blob/main/Ehr-logo-_2016.png" group-title="Radio", EHR Radio 104.3M MHz
+#EXTINF:-1 tvg-logo="https://github.com/intars7791/m3u/blob/main/Ehr-logo-_2016.png" group-title="Radio", EHR Radio 104.3MHz
 #EXTVLCOPT:network-caching=1000
 https://28933.live.streamtheworld.com/EHRAAC.aac
