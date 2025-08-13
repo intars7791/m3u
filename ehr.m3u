@@ -6,3 +6,7 @@ https://28933.live.streamtheworld.com/EHRAAC.aac
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/intars7791/m3u/refs/heads/main/SuperHits.png" group-title="Radio", EHR Superhits 96.8Mhz
 #EXTVLCOPT:network-caching=1000
 https://22593.live.streamtheworld.com/EHR_SUPERHITSAAC.aac
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/intars7791/m3u/refs/heads/main/LatviesuHiti.png" group-title="Radio", EHR Latviešu Hiti 101.0Mhz
+#EXTVLCOPT:network-caching=1000
+https://27783.live.streamtheworld.com/EHR_LATVIESU_HITIAAC.aac
