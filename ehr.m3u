@@ -10,3 +10,13 @@ https://22593.live.streamtheworld.com/EHR_SUPERHITSAAC.aac
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/intars7791/m3u/refs/heads/main/LatviesuHiti.png" group-title="Radio", EHR Latviešu Hiti 101.0Mhz
 #EXTVLCOPT:network-caching=1000
 https://28933.live.streamtheworld.com/EHR_LATVIESU_HITIAAC.aac
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/intars7791/m3u/refs/heads/main/EHRplus.png" group-title="Radio",EHR Plus 96.2Mhz
+#EXTVLCOPT:network-caching=1000
+https://25583.live.streamtheworld.com/EHR_PLUSAAC.aac
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/intars7791/m3u/refs/heads/main/RetroFMLatvija.png" group-title="Radio",RETRO FM LATVIJA 94.5MHz
+#EXTVLCOPT:network-caching=1000
+https://22653.live.streamtheworld.com/RETRO_FMAAC.aac
+
+
